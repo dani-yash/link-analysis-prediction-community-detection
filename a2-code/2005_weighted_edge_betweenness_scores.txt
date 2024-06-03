@@ -1,0 +1,20 @@
+Christoph Schlieder - Klaus Stein: 9.35e-06
+Selim G. Akl - Marius Nagy: 9.35e-06
+Hermann de Meer - Christian Koppen: 9.35e-06
+Klaus Stein - Claudia Hess: 9.35e-06
+Koji Kajiwara - Hirokazu Yamamoto: 9.29e-06
+Hirokazu Yamamoto - Tomoaki Miura: 9.26e-06
+Tomoaki Miura - Alfredo R. Huete: 9.26e-06
+David Nistér - Steven C. Hsu: 9.17e-06
+Rakesh Kumar 0001 - Steven C. Hsu: 9.16e-06
+Alfredo R. Huete - Bin Tan: 8.32e-06
+Sanjeeb Bhoi - Yong Xie: 7.85e-06
+David Nistér - Frederik Schaffalitzky: 7.63e-06
+Thomas C. Rindflesch - Vincent R. Sánchez: 6.84e-06
+Wei-Ying Ma - Hui-Min Yan: 6.82e-06
+Ellen W. Zegura - Ruomei Gao: 5.98e-06
+Christoph Schlieder - Markus Knauff: 5.75e-06
+Hsinchun Chen - Gondy Leroy: 5.4e-06
+Gondy Leroy - Thomas C. Rindflesch: 5.4e-06
+Richard Wright - Franciska de Jong: 3.91e-06
+David Hutchison - Hermann de Meer: 3.66e-06

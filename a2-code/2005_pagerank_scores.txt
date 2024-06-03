@@ -1,0 +1,50 @@
+Alex Panaretos: 1.419e-04
+Alessio Mazzanti: 1.331e-04
+Andrew Fish: 1.184e-04
+Daniel Berg: 1.123e-04
+Atílio E. Reggiani: 1.05e-04
+Haijin Yan: 1.024e-04
+ByungMoon Kim: 9.97e-05
+Amitava Sen: 9.74e-05
+Adrian Price: 9.73e-05
+Dayong Li: 9.71e-05
+Chon-in Wu: 9.63e-05
+Adriane Swalm Durey: 9.51e-05
+Duc Minh Nguyen: 9.5e-05
+Al Wagner: 9.29e-05
+A. Gonzalez: 9.16e-05
+Andreas Kassler: 9.09e-05
+Arnaud Membre: 9.06e-05
+Andrew S. Karson: 9.05e-05
+Ashikur Rahman: 8.96e-05
+Amol Pednekar: 8.92e-05
+Abhijeet Joglekar: 8.77e-05
+Albert A. Angehrn: 8.76e-05
+Christian Fritz 0001: 8.76e-05
+Hongxi Wang: 8.65e-05
+Amir Sheikh Zeineddini: 8.63e-05
+Avi Wigderson: 8.52e-05
+Avner Bar-Hen: 8.39e-05
+Andrea Tagarelli: 8.36e-05
+Alan Martin: 8.35e-05
+Arnoud C. Klaren: 8.28e-05
+B. Venkata Ramana: 8.26e-05
+Corneliu Henegar: 8.15e-05
+Ayman F. Habib: 8.1e-05
+A. Masoudnia: 8.09e-05
+Adam T. Sampson: 8.03e-05
+Alexandra Volanschi: 8.e-05
+Chang-Jung Ku: 7.98e-05
+B. Roe Hemenway: 7.95e-05
+Ben Kobler: 7.9e-05
+Chi-Leung Wong: 7.86e-05
+A. J. P. Brown: 7.85e-05
+Carlos Bernal Ruiz: 7.85e-05
+Eduardo S. Vera: 7.84e-05
+A. Katz: 7.83e-05
+Alex K. Simpson: 7.8e-05
+Alessandro Giua: 7.79e-05
+Alev Kaya: 7.72e-05
+Günther Nürnberger: 7.71e-05
+A. Keller: 7.67e-05
+Andrea Del Re: 7.63e-05

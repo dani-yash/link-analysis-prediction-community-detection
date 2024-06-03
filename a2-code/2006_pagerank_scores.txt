@@ -1,0 +1,50 @@
+Antonio J. Dorta: 2.372e-04
+Xinye Cai: 2.214e-04
+Yasuaki Kakehi: 1.93e-04
+Martin Marinov: 1.862e-04
+Wolfgang Helmberg: 1.774e-04
+Shaya Potter: 1.77e-04
+Kohei Ohtake: 1.712e-04
+Heng Huang: 1.685e-04
+Gemma L. Holliday: 1.677e-04
+Sira E. Palazuelos-Cagigas: 1.654e-04
+Philippas Tsigas: 1.645e-04
+Elke Achtert: 1.597e-04
+Haixun Wang: 1.589e-04
+Alin Dobra: 1.561e-04
+Joseph Pizzimenti: 1.55e-04
+Zhen Li: 1.54e-04
+Olivier Chevassut: 1.528e-04
+José Neves: 1.517e-04
+Quan Huynh-Thu: 1.503e-04
+Steven K. Reinhardt: 1.487e-04
+John Sharry: 1.476e-04
+Raghavendra Chandrashekara: 1.465e-04
+Kimmo Fredriksson: 1.434e-04
+Lorenzo Marconi: 1.423e-04
+Wenxin Liu: 1.423e-04
+Tatsuro Takahashi: 1.398e-04
+George M. Tzoumas: 1.397e-04
+Shin-ichi Tanigawa: 1.396e-04
+Anurag Kumar 0001: 1.387e-04
+Seungji Yang: 1.376e-04
+Jan Cornelis: 1.368e-04
+Peter C. Nelson: 1.363e-04
+Ana L. N. Fred: 1.361e-04
+Luca Cardelli: 1.326e-04
+Karlis Kaugars: 1.312e-04
+Shibu Menon: 1.312e-04
+Amitabh Varshney: 1.299e-04
+Junjuan Xu: 1.294e-04
+Mike Carbonaro: 1.27e-04
+Li Zou: 1.267e-04
+Sana Sfar: 1.266e-04
+Lining Sun: 1.265e-04
+Luca Trevisan: 1.257e-04
+Ishai Rabinovitz: 1.255e-04
+Wei-Yun Yau: 1.246e-04
+Aske Simon Christensen: 1.245e-04
+Huiping Cao: 1.235e-04
+Pierre Hellier: 1.22e-04
+Richard Mayr: 1.217e-04
+Joshua D. Knowles: 1.213e-04

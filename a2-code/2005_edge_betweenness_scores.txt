@@ -1,0 +1,20 @@
+Li Jin - Hsien-Huang P. Wu: 9.36e-06
+Ming-Hwa Sheu - Hsien-Huang P. Wu: 9.36e-06
+Chao Zhang - Zhenghui Gui: 9.35e-06
+Yong Fang - Wei Fang: 9.35e-06
+Alex Pang - David Kao: 9.35e-06
+David Kao - David H. Liang: 9.35e-06
+Bastian Wormuth - Peter W. Eklund: 9.35e-06
+Ming-Hwa Sheu - Chishyan Liaw: 9.35e-06
+Chishyan Liaw - Cherng-yue Huang: 9.35e-06
+Peter W. Eklund - Richard Cole: 9.13e-06
+Rajnikant V. Patel - Heidar A. Talebi: 8.76e-06
+Marco Cristo - Paulo Braz Golgher: 8.21e-06
+Rajnikant V. Patel - Jorge Angeles: 8.18e-06
+Heng Wang - Jorge Angeles: 7.41e-06
+Tao Wang - Li Jin: 6.99e-06
+Andrew Y. Ng - Jeff Michels: 6.34e-06
+Dennis Shasha - Richard Cole: 5.3e-06
+Marcos André Gonçalves - Karla A. V. Borges: 5.21e-06
+Alex Pang - Alisa Neeman: 4.99e-06
+Weiguo Fan - Marco Cristo: 4.97e-06

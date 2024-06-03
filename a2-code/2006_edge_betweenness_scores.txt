@@ -1,0 +1,20 @@
+Tamio Arai - Kazunori Umeda: 1.83e-05
+Marc Rioux - Kazunori Umeda: 1.829e-05
+Marc Rioux - Richard Lepage: 1.829e-05
+Sang-Cheol Park - Soo-Hyung Kim: 1.829e-05
+Seong-Whan Lee - Mohamed Kamel: 1.791e-05
+Seong-Whan Lee - Sang-Cheol Park: 1.791e-05
+Marc Shapiro - Luís Rodrigues: 1.482e-05
+Hua Li - Jie Chen 0002: 1.368e-05
+Al Brown - Alun D. Preece: 1.333e-05
+Yuanchun Shi - Yu Chen: 1.085e-05
+Nicholas R. Jennings - Alun D. Preece: 9.39e-06
+Chun Tung Chou - Sanjay Jha: 8.95e-06
+Yan Yang - Mohamed Kamel: 8.83e-06
+Tamio Arai - Takashi Sato: 7.03e-06
+Masanori Hashimoto - Takashi Sato: 6.99e-06
+Masanori Hashimoto - Yun Yang: 6.91e-06
+Chun Tung Chou - Wei Liu: 6.87e-06
+David Zhang - Mohamed Kamel: 6.8e-06
+Gerhard Weikum - Luís Rodrigues: 6.64e-06
+Michael L. Scott - Galen C. Hunt: 6.3e-06
